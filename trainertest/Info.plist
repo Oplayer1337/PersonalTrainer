@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BGTaskSchedulerPermittedIdentifiers</key>
+	<array>
+		<string>oplayer.trainertest.refresh</string>
+		<string>oplayer.trainertest.processing</string>
+	</array>
+	<key>CFBundleIconFile</key>
+	<string>1024.png</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>1024.png</string>
+		<string>120.png</string>
+		<string>180.png</string>
+	</array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Khand-Light.ttf</string>
+		<string>Khand-Regular.ttf</string>
+		<string>Khand-Medium.ttf</string>
+		<string>Khand-SemiBold.ttf</string>
+		<string>Khand-Bold.ttf</string>
+	</array>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>processing</string>
+		<string>fetch</string>
+		<string>audio</string>
+		<string>fetch</string>
+		<string>processing</string>
+	</array>
+	<key>UILaunchScreen</key>
+	<dict>
+		<key>Launch Screen</key>
+		<dict/>
+	</dict>
+	<key>UTImportedTypeDeclarations</key>
+	<array>
+		<dict/>
+		<dict/>
+	</array>
+</dict>
+</plist>
